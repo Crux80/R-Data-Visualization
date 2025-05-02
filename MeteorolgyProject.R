@@ -1,5 +1,5 @@
 # ==============================================================================
-# R Project: Analyzing Monthly Air Temperature Changes (CSV Version)
+# R Project: Analyzing Monthly Air Temperature Changes
 # Author: Xavier R.
 # Date: 2025-05-01
 #
